@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                    InlineKeyboardButton(
                        text="⭐ Support ⭐",
-                       url='https://t.me/ADDICT_ADITYA')
+                       url='https://t.me/InnerSoulChats')
                 ],
                 [       
                     InlineKeyboardButton(
