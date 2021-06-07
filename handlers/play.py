@@ -623,7 +623,7 @@ async def deezer(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/InnerSoulChats')
+                   url='https://t.me/LoveIsAslowPoision')
              ],
              [       
                  InlineKeyboardButton(
